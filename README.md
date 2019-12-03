@@ -18,3 +18,4 @@ This is an arduino based project (althoug I accidentally bought a Chinese knock 
 * Zip ties (2)
 * Screws and nuts (3 of each)
 
+![Wand](/POV Images/Wand.jpeg)
