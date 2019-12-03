@@ -1,2 +1,2 @@
 # POV-Wand
-CS207 Project, doing by myself in terms of a 'group', but more likely than not, my engineer father will be aiding in my escapades
+CS207 Project, doing by myself in terms of a 'group', but my engineer father, George Durell, aided in my escapades as I lack basic computer science knowledge. 
